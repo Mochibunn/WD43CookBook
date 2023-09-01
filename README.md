@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Mochibunn/WD43CookBook/main/res/img/codebeasts.png)
 # Hey, good lookin' 👋🏼
 Whatcha got cookin'? [🍳](https://www.youtube.com/watch?v=tunFYrXANHs "YouTube link for the reference song")
 <br>
