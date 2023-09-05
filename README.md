@@ -11,7 +11,7 @@ Please check out our [Trello board 📋](https://trello.com/b/9xB9pfNt/wd043-coo
 To check out the project's wireframe 🖼️, please visit [this link](https://www.canva.com/design/DAFtNm5pVms/0u1MmWH0mTZvNzk3VpFtRA/view?utm_content=DAFtNm5pVms&bunny=true "Landing page wireframe") for the landing page wireframe 🛬 or [this link](https://www.canva.com/design/DAFtNxxFp0Q/Ah9_VVyZ5BSGYyBkX_0x_w/view?utm_content=DAFtNxxFp0Q&bunny=true "Recipe page wireframe") for the recipe page wireframe 📑
 <br>
 ### What is this project about?
-This project is aimed at showcasing out ability to create beautiful websites using `HTML` 📄 linked with an external `CSS` library 🧩, such as `Bootstrap`, `Tailwind`, `Bulma`, `Foundation` etc. for the 2nd week of our boot camp `WD#043` led by the one and only `<Lilian F.>` 👩🏻‍🏫
+This project is aimed at showcasing our ability to create beautiful websites using `HTML` 📄 linked with an external `CSS` library 🧩, such as `Bootstrap`, `Tailwind`, `Bulma`, `Foundation` etc. for the 2nd week of our boot camp `WD#043` led by the one and only `<Lilian F.>` 👩🏻‍🏫
 <br>
 <br>
 <br>
