@@ -1,6 +1,5 @@
-/* .navbar-nav > li > .dropdown-menu {
-  background-color: #aaaaaa;
+body {
+  background-image: url('./res/img/269.jpg');
+  background-position: fixed;
+  background-size: cover;
 }
-.dropdown-item a {
-  color: black;
-} */
