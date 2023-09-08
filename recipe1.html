@@ -1,14 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="icon" href="./res/img/favicon.ico">
-  <title>Rice Flakes</title>
+  <title>Rice Flakes | Priyanka's Pantry</title>
 </head>
+
+<nav class="navbar navbar-expand-sm navbar-light bg-primary w-100">
+  <div class="container">
+      <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#n_bar" aria-controls="navbarNavAltMarkup" aria-label="Toggle navigation">
+          <i class="fa-solid fa-burger"></i>
+      </button>
+      <div class="collapse navbar-collapse d-sm-flex justify-content-sm-evenly" id="n_bar">
+          <ul class="navbar-nav d-sm-flex align-items-sm-center">
+              <li class="nav-item active"><a class="nav-link text-muted px-lg-5 px-md-3 text-nowrap" href="./index.html">Home</a></li>
+              <li class="nav-item"><a class="nav-link text-muted px-lg-5 px-md-3 text-nowrap" href="https://www.youtube.com/watch?v=jPx_ZWKYRCE" target="_blank">About Us</a></li>
+              <li class="nav-item"><a class="navbar-brand px-lg-5 px-md-3 d-none d-sm-block mx-1" href="./index.html">
+                <img
+                src="./res/img/logo_pot.png"
+                height="60"
+                  alt="Flavorful Feasts logo"
+                  loading="lazy"
+                />
+              </a></li>
+              <li class="nav-item dropdown">
+                <a class="text-muted text-decoration-none dropdown-toggle px-lg-5 px-md-3 text-nowrap" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="recipesMenu">
+                  Recipes
+                </a>
+                <ul class="dropdown-menu dropdown-menu-dark">
+                  <li><a class="dropdown-item" href="recipes.html">Pav Bhaji</a></li>
+                  <li><a class="dropdown-item" href="recipe1.html">Rice Flakes</a></li>
+                </ul>
+              </li>
+              <li class="nav-item"><a class="nav-link text-muted px-lg-5 px-md-3 text-nowrap" href="#" target="_blank">Our Style</a></li>
+          </ul>
+      </div>
+  </div>
+</nav>
 
 <body class="overflow-x-hidden">
   <header>
@@ -125,7 +155,9 @@
       </ul>
     </footer>
   </main>
-
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/fe3770dd4d.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
